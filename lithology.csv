@@ -1,0 +1,81 @@
+Geology;Lithology;Age
+If+rp;sandstone/ limestone/ shale/ bituminous shale;Rupelian
+NoData;No Data;NoData
+bs;clayley marl/ sand/ oolitic limestone/ sandstone;Samartian
+sm+Pg1;sandstone/ calcareous marl/ flysh;Cretaceous superior/Paleocene
+Pg1-lt;sandstone/ flysh/ shists;Eocene/Paleocene
+Pr;limestone/ sandstone/ conglomerate/ marl/ gypsum;Priabonian
+If-ch;conglomerate/ sandstone/ clayley marl/ flysh;Oligocene
+he;conglomerate/ sandstone/ clayley marl;Helvetian
+alpha_p;andesite;Others
+Ma;micaschists/ paragneiss;Others
+Mv;phyllite/ shale;Others
+c;limestone/ dolomite ;Others
+tu+sn;marl/ sandstone;Senonian/Turonian
+cm;limestone with sand/ calcareous sandstone/ conglomerate/ limestone/ silexs;Cenomanian
+a;amfibolite/ metabasalt/ diorite/ metadolerite;Others
+ne;shists/ sandstone/ limestone/ calcareous marl;Neocomian
+br-ap;sandstone/ conglomerate/ shists/ bauxite;Barremian
+al+vr;sandstone with conflomerate/ flysh;Vraconinan/Albian
+ne+al;flysh;Cretaceous inferior
+vr-tu;clays/ calcareous marl/ flysh;Cenomanian/Vraconian
+aq;clays/ breccias/ gypsum;Aquitanian
+to;calcareous marl/ limestone/ gypsum/ tufita/ salt rock;Tortonian
+ks+m;sandstone/ tuffs/ ash flows/ marl/ gravels/ sand;Samartian/Meotian
+qh2;sand and gravels/ clays/ loess;Holocene
+qpi;sand/ gravels/ marl/ clays;Pleistocene
+qh1;sand/ gravels/ silts/ loess;Holocene
+alpha²;andesite;Others
+alpha;andesite;Others
+Iv-qp;gravels/ clays/ sand;Levantin/Pleistocene inferior
+bd;conglomerate/ sandstone/ clays;Burdigalian
+Ms;serpentinite;Others
+al;conglomerate/ flysh/ sandstone;Albian
+vr+cm;limestone/ sandstone/ marl/ conglomerate/ tuffs/ flysh;Cenomanian/Vraconian
+br-al;flysch;Cretaceous inferior
+km-ap;marl/ limestone with breccia;Jurassic superior/Cretaceous inferior
+T1+2;dolomite/ limestone/ ;Trias
+ne+ap;flysh/ black shists;Neocomian/Barremian/Aptian
+vh;clayley marl/ sand/ sandstone micacee/ sandstone oolitic;Sarmatian
+th+ne;sandstone/ limestone/ shale/ bituminous shale/ marl;Neocomian/ Jurassic superior
+Mt;migmatite;Others
+ks;sand/ gravels/ marl;Kersonian
+p+dc;sand/ sandstone/ marl;Pliocene
+qh;silts/ sand/ gravels/ clays;Holocene
+sm;clayley marl/ breccia;Senonian
+m;clays/ ash flows/ gravels/ sand;Meotian
+vo;marl/ clays;Sarmatian
+qp3;sand and gravels/ terraces/ blocks;Pleistocene
+al-vr;sandstone with conflomerate;Vraconinan/Albian
+sn+d;flysh/ limestone;Danian/Senonian
+aq-he;breccia/ salt rocks/ gypsum/ marl/ sandstone;Oligocene/Miocene
+qp2-qp3;gravels/ sand/ loess;Pleistocene
+Pg1+2;sandstone with micas/ marl/ sandstone;Eocene
+p;sand/ sandstone/ marl;Pontian
+dc;gravels/ sand/ clays;Dacian
+Iv;Marl/ gravels/ lignit;Levantin
+qp3²;sand/ gravels;Pleistocene superor
+Iv+qpi;gravels/ sand/ marl/ clayley sand;Levantin/Pleistocene inferior
+ch+bd;sandstone/ clayley marl;Aquitanian
+It+pr;conglomerate/ limestone/ marl/ sandstone;Priabonian/Lutetian
+alpha_beta;andesite;Others
+ws-an;sandstone/ limestone/ dolomite/ conglomerate;Trias medium
+alpha_am;andesite;Others
+qp;gravels;Pleistoncene inferior
+pn;clays/ marl/ sand/ gravels;Pannonian
+vh+bs1;sandstone/ marl/ conglomerate/ sand;Sarmatian
+ap2;calcareous marl ;Aptian
+T3;limestone/ dolomite/ clays;Trias superior
+Beta_qp1;basalt;Others
+Q;sand/ gravels/ clays/ loess;Quaternary
+vr-co;sandstone/ conglomerate ;Creatceous superior
+st+ma;sandstone;Senonian
+al-tu;flysh with sand;Turonian/Albian
+tu+sm;marl/ calcareous marl;Senonian
+cl-th;limestone/ radiolarite;Jurassic superior 
+km+th;limestone;Malm
+tu+co;breccia/ limestone/ sandstone/ marl;Turonian/Cenomanian
+qp1;sand/ gravels;Pleistocene inferior
+If+pr;calcareous sandstone/ clays with sand;Oligocene
+qp2;sand/ gravels/ loess;Pleistocene
+an;limestone;Trias 
